@@ -8,8 +8,8 @@ These are just write ups and ttps that I've created for vulnerable machines I've
 The sequence of these VMs are as follows:
 
 
-Blue
-Academy
-Dev
-Butler
-Blackpearl
+- Blue
+- Academy
+- Dev
+- Butler
+- Blackpearl
