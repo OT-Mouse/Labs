@@ -13,3 +13,12 @@ The sequence of these VMs are as follows:
 - Dev
 - Butler
 - Blackpearl
+
+
+#### Notes
+Each one of these VMs come as .VMDK which Proxmox is not a fan of so it'll need to be converted to .qcow2 for them to be useable. 
+
+- Each device have their own vulnerabilities
+- you're only limited by your own creativity to compromise the machines
+- Your recon, enumeration, and vulnerability research steps are always the most important don't just jump to exploitation.
+- Document your findings and move like a APT but with ethics
