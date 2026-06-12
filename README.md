@@ -12,7 +12,7 @@ The sequence of these VMs are as follows:
 - Dev
 - Blackpearl
 
-Side note, I ultimately had issues with Butler and Academy running on my server. I did not do a walkthrough on those.:(
+Side note, I ultimately had issues with Butler and Academy running on my server. I did not do a walkthrough on those.
 
 #### Notes
 Each one of these VMs come as .VMDK which Proxmox is not a fan of so it'll need to be converted to .qcow2 for them to be useable. 
