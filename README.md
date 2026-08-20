@@ -9,7 +9,6 @@ The sequence of these VMs are as follows:
 
 
 - Blue
-- Dev
 - Blackpearl
 
 Side note, I ultimately had issues with Butler and Academy running on my server. I did not do a walkthrough on those.
